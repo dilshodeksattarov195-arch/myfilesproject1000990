@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartealculate",
+        "uuid": 2292840,
+        "checksum": "ms89vl"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
